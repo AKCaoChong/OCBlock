@@ -1,0 +1,6 @@
+framework module OCBlock {
+  umbrella header "OCBlock-umbrella.h"
+
+  export *
+  module * { export * }
+}

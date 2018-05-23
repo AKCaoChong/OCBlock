@@ -1,0 +1,22 @@
+{
+  "name": "OCBlock",
+  "version": "0.1.0",
+  "summary": "A short description of OCBlock.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/AKCaoChong/OCBlock",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "AKCaoChong": "caochong0621@thundersoft.com"
+  },
+  "source": {
+    "git": "https://github.com/AKCaoChong/OCBlock.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "OCBlock/Classes/**/*"
+}

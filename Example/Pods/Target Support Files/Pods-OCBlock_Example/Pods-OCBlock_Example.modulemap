@@ -1,0 +1,6 @@
+framework module Pods_OCBlock_Example {
+  umbrella header "Pods-OCBlock_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

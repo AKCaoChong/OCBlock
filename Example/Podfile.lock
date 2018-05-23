@@ -1,0 +1,23 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - OCBlock (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - OCBlock (from `../`)
+
+EXTERNAL SOURCES:
+  OCBlock:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  OCBlock: 59eacdac3f479d534749e660b16ff1c3ca989411
+
+PODFILE CHECKSUM: 216d372e5c4d39d254c77db87a54aae24c3f70e7
+
+COCOAPODS: 1.4.0
