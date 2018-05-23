@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'OCBlock_Example' do
+  pod 'OCBlock', :path => '../'
+
+  target 'OCBlock_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
